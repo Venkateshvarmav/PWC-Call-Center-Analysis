@@ -143,7 +143,9 @@ From the call volume by days we can note that
 
 1. With the above dashboard we can determine that Saturday, Sunday and Monday is the busiest and Tuesday, Webnesday and Friday has a lower call inflo and manager can use this data to plan shift schedule thus reducing the average handle time
  
-2. Manager/Leadership can also determine the agents with low CSAT score and high Call handleing time and take necessary action
+2. Manager/Leadership can also determine the agents with low CSAT score and high Call handling time and take necessary action
+
+3. As the Average time to answer is over a minute it is recommended to hire more employees, to reduce both tIme taken to answer and abandoned calls.
 
 ## Author - Venkatesh Varma V
 
